@@ -13,8 +13,9 @@ be implemented in subclasses.
 
 <b>Command</b>: Allows decouple a sender from a receiver. The sender will talk to the receive through a command. Commands can be undone and persisted.
 
-<b>Observer</b>: Allows an object notify other objects when its state changes. Mediator: Allows an object to encapsulate the communication between other
-objects.
+<b>Observer</b>: Allows an object notify other objects when its state changes. 
+
+<b>Mediator</b>: Allows an object to encapsulate the communication between other objects.
 
 <b>Chain of Responsibility</b>: Allows building a chain of objects to process a request.
 
