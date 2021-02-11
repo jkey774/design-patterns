@@ -1,4 +1,4 @@
-package com.designpatterns.mediator.observer;
+package com.designpatterns.mediator.usingObserver;
 
 import java.util.ArrayList;
 import java.util.List;

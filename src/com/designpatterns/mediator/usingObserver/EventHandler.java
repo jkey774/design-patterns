@@ -1,4 +1,4 @@
-package com.designpatterns.mediator.observer;
+package com.designpatterns.mediator.usingObserver;
 
 public interface EventHandler {
 
