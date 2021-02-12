@@ -25,7 +25,7 @@ public class Main {
         server.handle(new HttpRequest("-", "1234"));
 
         // if in the future we want to get rid of the logger,
-        // can comment out line 16 and pass compressor to new Authenticator()
+        // can comment out line 14 and pass compressor to new Authenticator()
 
     }
 
