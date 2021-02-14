@@ -2,4 +2,5 @@
 DesignPatterns.iml
 out/
 *.class
+*.gradle
 .idea
