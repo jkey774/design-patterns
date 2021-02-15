@@ -1,5 +1,7 @@
 ## Design Patterns
 
+<hr>
+
 ### Behavioral Patterns
 
 <b>Memento</b>: Allows restoring an object to a previous state.
@@ -20,6 +22,8 @@ be implemented in subclasses.
 <b>Chain of Responsibility</b>: Allows building a chain of objects to process a request.
 
 <b>Visitor</b>: Allows adding new operations to an object structure without modifying it.
+
+<hr>
 
 ### Structural Patterns
 
