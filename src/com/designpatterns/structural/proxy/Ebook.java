@@ -1,2 +1,6 @@
-package com.designpatterns.structural.proxy;public class Ebook {
+package com.designpatterns.structural.proxy;
+
+public interface Ebook {
+    void show();
+    String getFileName();
 }
