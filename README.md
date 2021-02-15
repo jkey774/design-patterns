@@ -20,3 +20,19 @@ be implemented in subclasses.
 <b>Chain of Responsibility</b>: Allows building a chain of objects to process a request.
 
 <b>Visitor</b>: Allows adding new operations to an object structure without modifying it.
+
+### Structural Patterns
+
+<b>Composite</b>: Represents object hierarchies where individual objects and compositions of objects are treated the same way.
+
+<b>Adapter</b>: Allows converting the interface of a class into another interface that clients expect.
+
+<b>Decorator</b>: Adds additional behavior to an object dynamically.
+
+<b>Facade</b>: Provides a simplified, higher-level interface to a subsystem. Clients can talk to the facade rather than individual classes in the subsystem.
+
+<b>Flyweight</b>: Allows sharing common state between multiple objects.
+
+<b>Bridge</b>: Allows representing hierarchies that grow in two different dimensions independently.
+
+<b>Proxy</b>: Allows providing a substitute for another object. The proxy object delegates all the work to the target object and contains some additional behavior.
